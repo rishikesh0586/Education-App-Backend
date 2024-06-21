@@ -1,0 +1,76 @@
+  {
+      "user": "666eb7308b2860235c019240",
+      "question": "What are the prerequisites for this course?",
+      "questionReplies": [
+        {
+          "user": "6671cd60b65edc871f03744b",
+          "question": "You should have a basic knowledge of Java programming."
+        }
+      ]
+    },
+    {
+      "user": "6671c9dab65edc871f03742e",
+      "question": "Is this course suitable for beginners?",
+      "questionReplies": [
+        {
+          "user": "6671cdf1b65edc871f03744f",
+          "question": "This course is more suitable for intermediate learners with some Java experience."
+        }
+      ]
+    },
+    {
+      "user": "6671cac8b65edc871f037437",
+      "question": "How long does it take to complete the course?",
+      "questionReplies": [
+        {
+          "user": "666eb7308b2860235c019240",
+          "question": "The course takes approximately 10 hours to complete."
+        }
+      ]
+    },
+    {
+      "user": "6671cb2cb65edc871f03743b",
+      "question": "Does the course include any practical projects?",
+      "questionReplies": [
+        {
+          "user": "6671cd60b65edc871f03744b",
+          "question": "Yes, there are several practical projects to help you apply what you learn."
+        }
+      ]
+    },
+    {
+      "user": "6671cbb8b65edc871f03743f",
+      "question": "Are there any advanced topics covered in this course?",
+      "questionReplies": [
+        {
+          "user": "6671cdf1b65edc871f03744f",
+          "question": "Yes, the course includes advanced topics such as multithreading and networking."
+        }
+      ]
+    },
+    {
+      "user": "6671cc26b65edc871f037443",
+      "question": "Is there any support available if I have questions during the course?",
+      "questionReplies": [
+        {
+          "user": "666eb7308b2860235c019240",
+          "question": "Yes, you can ask questions in the course forum, and the instructor will answer them."
+        }
+      ]
+    }
+  
+  
+
+  666eb7308b2860235c019240  rishi
+  6671c9dab65edc871f03742e 
+  6671cac8b65edc871f037437
+  6671cb2cb65edc871f03743b
+  6671cbb8b65edc871f03743f
+  6671cc26b65edc871f037443
+  6671ccc3b65edc871f037447
+  //
+  6671cd60b65edc871f03744b
+  6671cdf1b65edc871f03744f
+
+
+  //course id

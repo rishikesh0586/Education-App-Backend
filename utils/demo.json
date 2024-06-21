@@ -1,0 +1,42 @@
+{
+    "name": "Master React JS in One video",
+    "description": "Comprehensive React js Course",
+    "categories": "web",
+    "price": 1200,
+    "estimatedPrice": 1000,
+    "thumbnail": "https://i.ytimg.com/vi/64wYKS06S_w/maxresdefault.jpg",
+    "tags": "React",
+    "level": "intermediate",
+    "demoUrl": "https://www.youtube.com/embed/rfscVS0vtbw",
+    "benefits": [
+      {
+        "title": "Understand React js "
+      }
+    ],
+    "prerequisites": [
+      {
+        "title": "Basic programming knowledge"
+      }
+    ],
+    "courseData": [
+      {
+        "videoUrl": "https://www.youtube.com/embed/rfscVS0vtbw",
+        "title": "Introduction to React js",
+        "videoSection": "Basics",
+        "description": "Learn the basics of REACT JS",
+        "videoLength": 45,
+        "links": [
+          {
+            "title": "source code",
+            "url": "https://github.com/rishikesh0586/Strivers-SDE-Sheet-Challenge"
+          }
+        ],
+        "suggestion": "",
+        "questions": []
+      }
+    ],
+    "ratings": 5,
+    "purchased": 100,
+    "reviews": [],
+    "__v": 0
+}

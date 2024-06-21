@@ -1,0 +1,136 @@
+
+  {
+    "videoUrl": "https://www.youtube.com/embed/hBh_CC5y8-s?si=fQdtSsv_D8gl9TTZ",
+    "title": "Java Basics Explained",
+    "videoSection": "Introduction",
+    "description": "Learn the fundamentals of Java programming in this introductory video.",
+    "videoLength": 30,
+    "links": [
+      {
+        "title": "source code",
+        "url": "github.com"
+      }
+    ],
+    "suggestion": "",
+    "questions": []
+  },
+  {
+    "videoUrl": "https://www.youtube.com/embed/hBh_CC5y8-s?si=fQdtSsv_D8gl9TTZ",
+    "title": "Setting Up Java Environment",
+    "videoSection": "Installation",
+    "description": "Learn how to download and install Java on your machine.",
+    "videoLength": 30,
+    "links": [
+      {
+        "title": "source code",
+        "url": "github.com"
+      }
+    ],
+    "suggestion": "",
+    "questions": []
+  },
+  {
+    "videoUrl": "https://www.youtube.com/embed/hBh_CC5y8-s?si=fQdtSsv_D8gl9TTZ",
+    "title": "Java Basics Crash Course",
+    "videoSection": "Basics",
+    "description": "Dive into the basic concepts of Java programming.",
+    "videoLength": 30,
+    "links": [
+      {
+        "title": "source code",
+        "url": "github.com"
+      }
+    ],
+    "suggestion": "",
+    "questions": []
+  },
+  {
+    "videoUrl": "https://www.youtube.com/embed/hBh_CC5y8-s?si=fQdtSsv_D8gl9TTZ",
+    "title": "Understanding Functions and Data Types in Java",
+    "videoSection": "Function and Data Types",
+    "description": "Learn about functions, variables, and data types in Java.",
+    "videoLength": 30,
+    "links": [
+      {
+        "title": "source code",
+        "url": "github.com"
+      }
+    ],
+    "suggestion": "",
+    "questions": []
+  },
+  {
+    "videoUrl": "https://www.youtube.com/embed/hBh_CC5y8-s?si=fQdtSsv_D8gl9TTZ",
+    "title": "Mastering Loops in Java",
+    "videoSection": "Loop",
+    "description": "Explore different types of loops in Java with examples.",
+    "videoLength": 30,
+    "links": [
+      {
+        "title": "source code",
+        "url": "github.com"
+      }
+    ],
+    "suggestion": "",
+    "questions": []
+  },
+  {
+    "videoUrl": "https://www.youtube.com/embed/hBh_CC5y8-s?si=fQdtSsv_D8gl9TTZ",
+    "title": "Java Data Structures Explained",
+    "videoSection": "Data Structure",
+    "description": "Learn about common data structures in Java and how to use them.",
+    "videoLength": 30,
+    "links": [
+      {
+        "title": "source code",
+        "url": "github.com"
+      }
+    ],
+    "suggestion": "",
+    "questions": []
+  },
+  {
+    "videoUrl": "https://www.youtube.com/embed/hBh_CC5y8-s?si=fQdtSsv_D8gl9TTZ",
+    "title": "File Handling in Java",
+    "videoSection": "File Handling",
+    "description": "Learn how to read from and write to files in Java.",
+    "videoLength": 30,
+    "links": [
+      {
+        "title": "source code",
+        "url": "github.com"
+      }
+    ],
+    "suggestion": "",
+    "questions": []
+  },
+  {
+    "videoUrl": "https://www.youtube.com/embed/hBh_CC5y8-s?si=fQdtSsv_D8gl9TTZ",
+    "title": "Java Projects for Beginners",
+    "videoSection": "Projects",
+    "description": "Explore beginner-friendly projects to practice Java programming.",
+    "videoLength": 30,
+    "links": [
+      {
+        "title": "source code",
+        "url": "github.com"
+      }
+    ],
+    "suggestion": "",
+    "questions": []
+  },
+  {
+    "videoUrl": "https://www.youtube.com/embed/hBh_CC5y8-s?si=fQdtSsv_D8gl9TTZ",
+    "title": "Advanced Java Programming Techniques",
+    "videoSection": "Advanced Concepts",
+    "description": "Learn advanced Java concepts such as multithreading and networking.",
+    "videoLength": 30,
+    "links": [
+      {
+        "title": "source code",
+        "url": "github.com"
+      }
+    ],
+    "suggestion": "",
+    "questions": []
+  }
